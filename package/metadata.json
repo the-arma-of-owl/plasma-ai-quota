@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [{ "Name": "Efe Çam", "Email": "234805340+the-arma-of-owl@users.noreply.github.com" }],
+        "Category": "System Information",
+        "Description": "Claude Code, Codex, OpenCode Go, Command Code and Replit usage quotas in your panel",
+        "Description[tr]": "Claude Code, Codex, OpenCode Go, Command Code ve Replit kullanım kotaları panelinde",
+        "Icon": "office-chart-bar",
+        "Id": "com.github.the-arma-of-owl.aiquota",
+        "License": "MIT",
+        "Name": "AI Quota",
+        "Name[tr]": "AI Kota",
+        "Version": "1.0.0",
+        "Website": "https://github.com/the-arma-of-owl/plasma-ai-quota"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

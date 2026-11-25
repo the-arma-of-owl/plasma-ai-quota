@@ -1,0 +1,9 @@
+{
+  "cache_seconds": 300,
+  "user_agent": null,
+  "claude": { "enabled": true },
+  "codex": { "enabled": true },
+  "opencode": { "enabled": true, "org_id": "org_XXXXXXXXXXXXXXXXXXXXXXXXXX" },
+  "commandcode": { "enabled": true },
+  "replit": { "enabled": true, "browser": "auto" }
+}
