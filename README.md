@@ -4,7 +4,7 @@
 
 **See your Claude Code, OpenAI Codex, OpenCode Go, Command Code and Replit usage limits right in your KDE Plasma 6 panel.**
 
-<img src="assets/demo.gif" alt="AI Quota plasmoid showing Claude Code, Codex, OpenCode, Command Code and Replit usage in the KDE Plasma panel" width="480">
+<img src="assets/demo.gif" alt="AI Quota plasmoid showing Claude Code, Codex, OpenCode, Command Code and Replit usage in the KDE Plasma panel" width="720">
 
 ![Plasma 6](https://img.shields.io/badge/KDE%20Plasma-6-1d99f3?logo=kde)
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab?logo=python&logoColor=white)
@@ -15,6 +15,15 @@
 Stop opening five dashboards to check whether you're about to hit a rate limit. **AI Quota** is a tiny
 Plasma widget (plasmoid) that shows the 5-hour, weekly and monthly quotas of every AI coding assistant
 you pay for, colour-coded, with reset times, next to your clock.
+
+## Screenshots
+
+<table>
+<tr>
+<td align="center" valign="bottom"><b>In the panel</b><br><br><img src="assets/panel.png" alt="AI Quota in the KDE Plasma panel: Claude 29%, Codex 0%, OpenCode 44%, Command Code 62%, Replit $23" width="404"></td>
+<td align="center"><b>Click for details</b><br><br><img src="assets/popup.png" alt="AI Quota popup with 5-hour, weekly and monthly limits and reset times per service" width="440"></td>
+</tr>
+</table>
 
 ## Features
 
